@@ -37,4 +37,9 @@ class ExampleInstrumentedTest {
         assert(true)
     }
 
+    @Test
+    fun passingTest4(){
+        assert(true)
+    }
+
 }
